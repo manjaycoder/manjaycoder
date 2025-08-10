@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Java and dsa**
+- 🌱 I’m currently learning **Full-Stack Development and AI & ML Integration**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Any Programming Language**
 
 - 📫 How to reach me **manjay.verma.coder@gmail.com**
 
